@@ -1,4 +1,3 @@
-# lily4499-Node.js-Microservice-with-Docker-Kubernetes-and-Helm
 
 # Node.js Microservice with Docker, Kubernetes, and Helm
 

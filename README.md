@@ -1,7 +1,7 @@
-Here’s a clean and professional `README.md` in GitHub markdown format for your CI/CD project with Docker, Kubernetes, and Helm:
+#  Node.js Microservice Deployment with Docker, Kubernetes & Helm
 
 ```markdown
-# 🚀 Node.js Microservice Deployment with Docker, Kubernetes & Helm
+
 
 This project demonstrates how to containerize a simple Node.js microservice, deploy it to Kubernetes (via Minikube or Amazon EKS), configure health probes, enable centralized logging, and package it with Helm for repeatable deployments.
 
